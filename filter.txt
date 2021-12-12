@@ -1,3 +1,4 @@
+!
 ! Title: LISTA_0.0
 ! Description: Przekompilowana lista
 ! Homepage: https://google.pl
