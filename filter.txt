@@ -3,7 +3,7 @@
 ! Description: Przekompilowana lista
 ! Homepage: https://google.pl
 ! License: GPLv3
-! Last modified: 2023-10-15T20:19:58.235Z
+! Last modified: 2023-10-15T20:30:58.163Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
